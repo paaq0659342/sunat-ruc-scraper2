@@ -9,7 +9,7 @@ npm install sunat-ruc-scraper4
 ```
 ## Uso
 ```
-var scraper = require("sunat-ruc-scraper2");
+var scraper = require("sunat-ruc-scraper4");
 
 scraper.getInformation("20131312955" , function ( err , data ) {
 	if ( err ) {
