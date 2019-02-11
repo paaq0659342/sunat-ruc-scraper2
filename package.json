@@ -1,5 +1,5 @@
 {
-  "name": "sunat-ruc-scraper2",
+  "name": "sunat-ruc-scraper3",
   "version": "1.0.1",
   "description": "A simple scraper to get RUC information from SUNAT public page.",
   "main": "lib/index",
