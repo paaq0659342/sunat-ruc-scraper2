@@ -5,7 +5,7 @@
 
 ## Instalacion
 ```
-npm install sunat-ruc-scraper3
+npm install sunat-ruc-scraper4
 ```
 ## Uso
 ```
