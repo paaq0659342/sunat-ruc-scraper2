@@ -1,4 +1,4 @@
-#Sunat ruc scraper3
+#Sunat ruc scraper4
 ## Descripcion
 * Este proyecto no usa ningun OCR,por lo cual es mas eficiente al momento del scrapping
 * Depende del estado de la pagina web de SUNAT,se devolvera un error asi que depende del caso de uso se tendra que pensar en alguna otra solucion de contingencia
